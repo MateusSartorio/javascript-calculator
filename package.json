@@ -1,0 +1,16 @@
+{
+  "name": "javascript-calculator-2",
+  "version": "1.0.0",
+  "description": "a simple calculator made with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcmd"
+  },
+  "keywords": [
+    "javascript",
+    "calculator",
+    "freecodecamp"
+  ],
+  "author": "Mateus Sartorio",
+  "license": "ISC"
+}
